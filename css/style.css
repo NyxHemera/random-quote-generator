@@ -1,0 +1,83 @@
+body {
+	background: url("https://36ac30c13130509695cc52edff7cc9aaed02b916.googledrive.com/host/0B-hZ9xIoiYFbcXhQejBRLXR6NGc/cheap_diagonal_fabric.png");
+	background-repeat: repeat;
+	margin: 0;
+}
+
+#new-button{
+	margin: 0;
+	padding: 4px 8px 4px 8px;
+}
+
+#tag {
+	margin: 0;
+	padding: 0;
+	
+	font-size: 1.15em;
+	font-family: Verdana;
+	letter-spacing: -.05em;
+}
+
+#title {
+	margin: 0;
+	padding: 0;
+	
+	font-size: 3.5em;
+	font-family: Times New Roman;
+	letter-spacing: -.05em;
+	font-weight: bold;
+  
+	color: #30303C;
+}
+
+#title-author {
+	margin: 0;
+	padding: 0;
+	
+	font-size: 1.2em;
+	font-family: Helvetica;
+}
+
+#quote {
+	margin: 0;
+	padding: 0;
+	padding-bottom: 5px;
+	
+	font-size: 1.3em;
+	font-family: Helvetica;
+}
+
+.container-button {
+	margin: 20px 0px 20px 0px;
+	padding: 0;
+}
+
+.container-tag {
+	
+}
+
+.container-title {
+	
+}
+
+.container-quote {
+	margin: 0 auto;
+	margin-bottom: 50px;
+	padding: 5px;
+	
+	background: #e6dfdf;
+	
+	width: 40%;
+	height: auto;
+	box-shadow: 8px 8px 12px #444444;
+	border: 1px solid rgba(30,30,30,.80);
+	border-radius: 10px
+}
+
+.divider {
+	margin: 0 auto;
+	padding: 5px 0px 5px 0px;
+	
+	border-top: thin solid rgba(30,30,30,.75);
+	width: 40%;
+}
