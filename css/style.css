@@ -34,7 +34,7 @@ body {
 	margin: 0;
 	padding: 0;
 	
-	font-size: 1.2em;
+	font-size: 1.4em;
 	font-family: Helvetica;
 }
 
@@ -67,7 +67,8 @@ body {
 	
 	background: #e6dfdf;
 	
-	width: 40%;
+	max-width: 500px;
+	
 	height: auto;
 	box-shadow: 8px 8px 12px #444444;
 	border: 1px solid rgba(30,30,30,.80);
@@ -78,6 +79,6 @@ body {
 	margin: 0 auto;
 	padding: 5px 0px 5px 0px;
 	
-	border-top: thin solid rgba(30,30,30,.75);
+	border-top: thin dotted rgba(30,30,30,.75);
 	width: 40%;
 }

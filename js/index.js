@@ -1,7 +1,7 @@
 $( document ).ready(function() {
-		var init = Math.floor(Math.random() * 10);
-		$('#quote').text(getQuote(init));
-		$('#title-author').text(getTitle(init));
+	var init = Math.floor(Math.random() * 10);
+	$('#quote').text(getQuote(init));
+	$('#title-author').text(getTitle(init));
 	
 	function getQuote(rand) {
 
